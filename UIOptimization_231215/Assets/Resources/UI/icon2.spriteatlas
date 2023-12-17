@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: icon2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 70e418b102c8050428c353bda8c086c1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 07ad02c08f5d9d749a1d5d182e7b30eb, type: 3}
+  - {fileID: 21300000, guid: d21a178191005b241a4dc4073a121e3f, type: 3}
+  - {fileID: 21300000, guid: ee14f8c1ad7ca1145961b234af898d7f, type: 3}
+  - {fileID: 21300000, guid: 24f2612534d77d941b72f268b0ba39e6, type: 3}
+  - {fileID: 21300000, guid: 57a38b4532219474182886b26b68ea93, type: 3}
+  - {fileID: 21300000, guid: 1d1c40968050b8e418bf6d2e49c99cf8, type: 3}
+  - {fileID: 21300000, guid: 1b8f5d4744f43544eba7abea151ae3b6, type: 3}
+  - {fileID: 21300000, guid: 7270c1f869c40544a8c2698063a1f2cb, type: 3}
+  - {fileID: 21300000, guid: e850b4e915a335e4995df8c63808acf2, type: 3}
+  - {fileID: 21300000, guid: a0352ebb86e285744a51b143a4e95b0c, type: 3}
+  - {fileID: 21300000, guid: f2035f1d8d76b9e41a96d430d1e2133d, type: 3}
+  - {fileID: 21300000, guid: 3ed9305dc3cbcb3459be5950ec438a23, type: 3}
+  - {fileID: 21300000, guid: 35169b4f60590434bb49f7684bd788cc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icons8-rack-of-lamb-32
+  - icons8-crab-32
+  - icons8-nut-32
+  - icons8-taco-32
+  - icons8-cherry-32
+  - icons8-broccoli-32
+  - icons8-hamburger-32
+  - icons8-spinach-32
+  - "icons8-\uC120\uD0DD\uAD8C-64"
+  - icons8-sunny-side-up-eggs-32
+  - icons8-apple-fruit-32
+  - icons8-croissant-32
+  - icons8-citrus-32
+  m_RenderDataMap: {}
+  m_Tag: icon2
+  m_IsVariant: 0
